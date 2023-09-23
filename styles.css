@@ -1,0 +1,503 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lora:ital@1&family=Pacifico&display=swap');
+  
+/*Estilos para la pagina de inicio*/
+
+html, body{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+    
+}
+
+#PaginaInicio {
+    background: url(Students.jpg) no-repeat center fixed;
+    background-size: cover;
+    flex: 1;
+  }
+
+  #btniniciarsesion{
+    border-radius: 12px;
+    background-color: rgb(51, 102, 255);
+    cursor: pointer;
+    box-shadow: 3px 3px rgba(204, 204, 204, 0.267);
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 5px;
+    width: 150px;
+    
+  }
+
+  #btnregistrarse{
+    border-radius: 12px;
+    background-color: rgb(0, 204, 102 );
+    cursor: pointer;
+    box-shadow: 3px 3px rgba(0,0,0,0.5);
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 5px;
+    width: 150px;
+    
+  }
+
+ .tituloP{
+
+  text-align: center;
+  vertical-align: middle;
+  color: #000000;
+ }
+
+  h1{
+    font-family: 'Abril Fatface', cursive;
+  }
+
+  .slogan{
+    font-family: 'Lora', serif;
+    
+  }
+
+  #navbarSupportedContent{
+    font-weight:600;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Belleza&family=Libre+Baskerville&family=Lora:ital@1&family=Orienta&family=Pacifico&family=Playfair+Display&family=Raleway:wght@200&display=swap');
+  /*Estilos para la pagina de interaccion*/
+
+ 
+  .TPAG{
+    padding: 50px;
+    padding-bottom: 20px;
+  }
+
+#PagPrincipal{
+    
+    height: 100vh;
+    width: 100vw;
+}
+header {
+    background-color: #d8887b  ;
+    color: rgb(27, 27, 27);
+    padding: 10px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+#addFriendBtn, #friendRequestsBtn {
+    background-color: #c0c3d4;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+}
+
+.Buscador{
+  
+  max-width: 300px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+#searchBtn{
+  background-color: #c0c3d4;
+  color: #030303;
+  border: none;
+  margin-top: 10px;
+  padding: 10px;
+  cursor: pointer;
+  font-family: 'Raleway', sans-serif;
+}
+
+.btnsalir{
+  position: absolute;
+  top: 10px;
+  right: 145px;
+  padding: 10px 20px;
+  background-color: #95c8fa;
+  color: #181616;
+  border-radius: 5px;
+  cursor: pointer;
+  -webkit-text-stroke: 0.3px rgb(0, 0, 0);
+}
+
+.btnMiCuenta {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: #95c8fa;
+  color: #181616;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  -webkit-text-stroke: 0.3px rgb(0, 0, 0);
+}
+
+.btnLibros{
+  background-color: #c0c3d4;
+    color: #030303;
+    border: none;
+    padding: 13px 15px;
+    cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+}
+
+.search input[type="text"] {
+    padding: 6px;
+    width: 500px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.search button {
+    background-color: #c0c3d4;
+    color: #030303;
+    border: none;
+    padding: 6px 15px;
+    cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+}
+
+main {
+    
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+
+/*Apartado de usuarios conectado*/
+.sidebar {
+    flex: 1;
+    background-color: #c0c3d4;
+    padding: 20px;
+    max-width: 350px;
+    margin-right: 15px;
+    margin-left: 50px;
+    height: 900px;
+    margin-top: 20px;
+}
+
+
+.sidebar h2 {
+    margin-top: 15px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: 'Playfair Display', serif;
+    -webkit-text-stroke: 0.8px rgb(0, 0, 0);
+}
+
+/*Apartado de publicaciones*/
+.NUSUARIO{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  -webkit-text-stroke: 0.5px #000000;
+}
+
+.IMGP{
+
+  max-width: 400px; 
+  max-height: 400px;
+  object-fit: contain;
+
+}
+
+.TituloP{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  -webkit-text-stroke: 0.4px #999cad;
+}
+.Publicaciones {
+    flex: 3;
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+    font-size: 25px;
+    width: 90%;
+    justify-items: center;
+}
+
+
+/*font-family: 'Abril Fatface', cursive;
+font-family: 'Belleza', sans-serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Lora', serif;
+font-family: 'Orienta', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Raleway', sans-serif;*/
+
+/* Fijamos el footer en la parte inferior de la página */
+
+footer {
+    
+    position: static; 
+    width: 100%;
+    background-color:#fd9e90a4 ;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+  
+    
+}
+
+footer h2 {
+    margin-top: auto;
+    align-items: center;
+    padding-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+/*Para p del artidulo*/
+/*h2*/
+
+.carusel{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+    -webkit-text-stroke: 0px rgb(255, 255, 255);
+     background: #ff5246c0;
+     font-size: 20px;
+     margin-bottom: 40px;
+}
+/* Ventanas emergentes sobre mi */
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+#MensajeSM{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.692);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    /*display: none;*/
+  }
+  
+  .popup {
+    max-width: 500px;
+    background-color: #fffffff8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    position: relative; /* Añadimos posición relativa para posicionar el botón cerrar */
+  }
+  
+  .close-btn {
+    position: absolute;
+    top: 5px; /* Ajustamos la posición para que esté arriba del mensaje */
+    right: 5px; /* Ajustamos la posición para que esté a la derecha del mensaje */
+    font-size: 25px;
+    color: #d33232; 
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Estilo solo para el botón con id="btnSobreMi" */
+  #btnSobreMi {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #a7cef30c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+  }
+  
+  /* Estilo de hover solo para el botón con id="btnSobreMi" */
+  #btnSobreMi:hover {
+    background-color: #af8b7263;
+    font-weight: bold;
+    
+  }
+  
+
+ /* ... Los estilos de mi cuenta ... */
+ body, html {
+  margin: 0;
+  padding: 0;
+  
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #eed0b6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.profile-info {
+  text-align: center;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#regresar-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 10px;
+  background-color: #fd9e90a4;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#regresar-btn:hover {
+  background-color: #f7624ba4;
+}
+
+#profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+#user-name {
+  font-size: 25px;
+  margin: 0;
+
+}
+
+#user-id, #user-email {
+  color: #616161;
+}
+
+#user-description {
+  width: 100%;
+  height: 100px;
+  resize: none;
+  margin: 10px 0;
+  font-family: 'Orienta', sans-serif;
+  
+}
+
+
+#save-btn {
+  cursor: pointer;
+  margin: 10px;
+  margin-left: 50px;
+}
+
+#save-btn:hover {
+  background-color: #45a048;
+}
+
+/* ... BIBLIOTECA... */
+
+#biblioteca-content {
+  background-color: #f5f5f5; /* Gris claro */
+  color: #333333; /* Negro */
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+#biblioteca-content header2 h1 {
+  color:  #333333; 
+}
+
+#biblioteca-content .BuscarLibros {
+  margin-top: 20px;
+}
+
+#biblioteca-content .search-container {
+  display: flex;
+  justify-content: center;
+}
+
+#biblioteca-content .search-container input[type="text"] {
+  padding: 10px;
+  border-radius: 10px 0 0 10px;
+  border: 1px solid #fd9e90a4;
+}
+
+#biblioteca-content .search-container button {
+  padding: 10px 20px;
+  border-radius: 0 10px 10px 0;
+  background-color:#fd9e90a4; /* Nuevo color: Azul claro */
+  color: rgb(0, 0, 0);
+  border: 1px solid #fd9e90a4; /* Nuevo color: Azul claro */
+}
+
+#biblioteca-content #regresar-btn {
+  color: #2196f3; /* Azul */
+  text-decoration: none;
+  color: #470202;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+.bookCard {
+  width: 500px;
+  margin: 10px;
+  padding: 10px;
+  border: 1.5px solid #ffffffc2;
+  border-radius: 10px;
+  display: flex;
+  background-color:#95c8fa;
+}
+#biblioteca-content #regresar-btn:hover {
+  color: #000000; 
+}
+
+#biblioteca-content footer2 {
+  margin-top: 20px;
+}
+
+#biblioteca-content footer2 p {
+  color: #333333; /* Negro */
+}
+
+
+.bookCard img {
+  max-width: 180px;
+  max-height: 250px;
+  object-fit: contain;
+}
+
+.bookCard .bookInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 10px;
+  text-align: justify;
+}

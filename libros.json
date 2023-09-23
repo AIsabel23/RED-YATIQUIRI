@@ -1,0 +1,996 @@
+[
+    {
+      "nombre": "La ingeniería es humana: La importancia del fallo en el éxito del diseño",
+      "autor": "Henry Petroski",
+      "año": 2007,
+      "editorial": "Cinter Divulgación Técnica, S.L.",
+      "imagen": "https://m.media-amazon.com/images/I/411WQDPF4XL._SX312_BO1,204,203,200_.jpg",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español", "Inglés"],
+      "precio": {
+        "dolares": 31.31,
+        "bolivianos": 216.21
+      }
+    },
+    {
+      "nombre": "Mecanica De Suelos Naturaleza Y Propiedades",
+      "autor": "Diaz Rodriguez, Jorge Abraham/Escritor",
+      "año":  2019,
+      "editorial": "Trillas",
+      "imagen": "https://etrillas.mx/imagenes/9786071/978607173519.JPG",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 197,
+        "bolivianos": 1350
+      }
+    },
+    {
+      "nombre": "Diseño de Estructuras de Acero",
+      "autor": "Jack C. McCormac",
+      "año":  2015,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://contentv2.tap-commerce.com/cover/large/9789586829342_1.jpg?id_com=1164",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 65,
+        "bolivianos": 450
+      }
+    },
+    {
+      "nombre": "Hidráulica de Canales Abiertos",
+      "autor": "Ven Te Chow",
+      "año":  2009,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://static.cegal.es/imagenes/marcadas/9789586/978958600228.gif",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 55,
+        "bolivianos": 380
+      }
+    },
+    {
+      "nombre": "Fundamentos de Ingeniería Geotécnica",
+      "autor": "Braja M. Das",
+      "año":  2017,
+      "editorial": "Cengage Learning",
+      "imagen": "https://image.isu.pub/140226185433-fc47df72dd383aaed67efaf679630110/jpg/page_1.jpg",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 60,
+        "bolivianos": 420
+      }
+    },
+    {
+      "nombre": "Análisis de Estructuras",
+      "autor": "Jack C. McCormac",
+      "año":  2013,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://www.marcombo.com/wp-content/uploads/2017/10/9788426717092.jpg",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 45,
+        "bolivianos": 310
+      }
+    },
+    {
+      "nombre": "Geotecnia y Cimientos",
+      "autor": "José Antonio Jiménez Salas",
+      "año":  2012,
+      "editorial": "Paraninfo",
+      "imagen": "https://images-na.ssl-images-amazon.com/images/P/8472070085.01.LZZZZZZZ.jpg",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 48,
+        "bolivianos": 330
+      }
+    },
+    {
+      "nombre": "Mecánica de Fluidos",
+      "autor": "Frank M. White",
+      "año":  2018,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://cdn-v1.udocz-assets.com/uploads/book/cover/22000/mecanica_de_fluidos_frank_m_white-171dda44dbc81e7572844834fb4e0c30.jpg",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 52,
+        "bolivianos": 360
+      }
+    },
+    {
+      "nombre": "Diseño de Estructuras de Concreto",
+      "autor": "Arthur H. Nilson",
+      "año":  20160,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2016/09/diseno-de-estructuras-de-concreto-arthur-h-nilson-12va-edicion.jpg",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 58,
+        "bolivianos": 400
+      }
+    },
+    {
+      "nombre": "Sistemas de Transporte",
+      "autor": "Juan José Lavado",
+      "año":  2014,
+      "editorial": "Editorial UPC",
+      "imagen": "https://image.slidesharecdn.com/planificaciondetransportetranscad-130709114758-phpapp02/85/planificacion-de-transporte-trans-cad-1-320.jpg?cb=1666779237",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 47,
+        "bolivianos": 325
+      }
+    },
+    {
+      "nombre": "Mecánica de Materiales",
+      "autor": "Ferdinand P. Beer",
+      "año":  2019,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://ia601701.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/mecanica-de-materiales-beer-johnston/Mecanica_De_Materiales_Beer_Johnston_jp2.zip&file=Mecanica_De_Materiales_Beer_Johnston_jp2/Mecanica_De_Materiales_Beer_Johnston_0000.jp2&id=mecanica-de-materiales-beer-johnston&scale=2&rotate=0",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 56,
+        "bolivianos": 390
+      }
+    },
+    {
+      "nombre": "Diseño Sísmico de Edificios",
+      "autor": "Bazán",
+      "año":  2011,
+      "editorial": "LIMUSA",
+      "imagen": "data:image/jpeg;base64,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",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 50,
+        "bolivianos": 350
+      }
+    },
+    {
+      "nombre": "Hidrología Aplicada",
+      "autor": "Ven Te Chow",
+      "año":  2017,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/02a8987b9688d562e5a77b71d3157e87/thumb_1200_1892.png",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 54,
+        "bolivianos": 370
+      }
+    },
+    {
+      "nombre": "Estructuras Metálicas",
+      "autor": "Ramón Argüelles Álvarez",
+      "año":  2015,
+      "editorial": "Universidad de Oviedo",
+      "imagen": "https://www.agricolajerez.com/es/products/estructura-metalica-hoy-la-teoria-y-practica-tomo-i-2-parte/image-max",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 49,
+        "bolivianos": 340
+      }
+    },
+    {
+      "nombre": "Mecánica de Rocas",
+      "autor": "José Antonio Jiménez Salas",
+      "año":  2013,
+      "editorial": "Paraninfo",
+      "imagen": "https://m.media-amazon.com/images/I/51TmW6bT4iL._AC_UF1000,1000_QL80_.jpg",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 53,
+        "bolivianos": 370
+      }
+    },
+    {
+      "nombre": "Diseño de Estructuras de Madera",
+      "autor": "Donald E. Breyer",
+      "año":  2018,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://m.media-amazon.com/images/I/61K+D727leL._AC_UF1000,1000_QL80_.jpg",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 57,
+        "bolivianos": 400
+      }
+    },
+    {
+      "nombre": "Mecánica de Pavimentos",
+      "autor": "Carlos Hernando Higuera Sandoval",
+      "año":  2014,
+      "editorial": "Uptc",
+      "imagen": "https://imgv2-2-f.scribdassets.com/img/document/468085664/original/7c0b615ee5/1683320716?v=1",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 46,
+        "bolivianos": 320
+      }
+    },
+    {
+      "nombre": "Ingeniería de Cimentaciones",
+      "autor": "Braja M. Das",
+      "año":  2017,
+      "editorial": "Cengage Learning",
+      "imagen": "https://image.isu.pub/160509124608-36139397f0c7a7da276fe14006b27303/jpg/page_1.jpg",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 51,
+        "bolivianos": 360
+      }
+    },
+    {
+      "nombre": "Hidráulica de Canales",
+      "autor": "Ven Te Chow",
+      "año":  2015,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://static.cegal.es/imagenes/marcadas/9789586/978958600228.gif",
+      "carrera": "Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 55,
+        "bolivianos": 380
+      }
+    },
+    {
+      "nombre": "Fundamentos de Química Ambiental",
+      "autor": "Stanley E. Manahan",
+      "año":  2018,
+      "editorial": "CRC Press",
+      "imagen": "https://m.media-amazon.com/images/I/515PI-fKFhL.jpg",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 62,
+        "bolivianos": 430
+      }
+    },
+    {
+      "nombre": "Tratamiento de Aguas Residuales",
+      "autor": "Marcos von Sperling",
+      "año":  2014,
+      "editorial": "Artlibro",
+      "imagen": "https://editorial.udenar.edu.co/wp-content/uploads/2015/02/PRINCIPIOS-DEL-TRATAMEINTO-BIOLOGICO-DE-LAS-AGUAS-RESIDUALES-OS-VOL4.png",
+      "carrera": "Ingeniería Ambiental/Ingeniería Civil",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 55,
+        "bolivianos": 380
+      }
+    },
+    {
+      "nombre": "Evaluación de Impacto Ambiental",
+      "autor": "Larry W. Canter",
+      "año":  2015,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://images-na.ssl-images-amazon.com/images/P/8448112512.01.LZZZZZZZ.jpg",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 57,
+        "bolivianos": 400
+      }
+    },
+    {
+      "nombre": "Química del Agua",
+      "autor": "Gordon A. Fair",
+      "año":  2013,
+      "editorial": "Cengage Learning",
+      "imagen": "https://catalogosiidca.csuca.org/Cover/Show?author=Fair%2C+Gordon+Maskew+1894-1970&callnumber=&size=large&title=Abastecimiento+de+aguas+y+remoci%C3%B3n+de+aguas+residuales+%2F&recordid=UCR.000203215&source=Solr&isbn=968180466X",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 52,
+        "bolivianos": 360
+      }
+    },
+    {
+      "nombre": "Ecología",
+      "autor": "Michael L. Cain",
+      "año":  2012,
+      "editorial": "Oxford University Press",
+      "imagen": "https://m.media-amazon.com/images/I/81MCZ7OLJ4L._AC_UF1000,1000_QL80_.jpg",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 46,
+        "bolivianos": 320
+      }
+    },
+    {
+      "nombre": "Ingeniería Ambiental: Fundamentos, Sostenibilidad y Diseño",
+      "autor": "James R. Mihelcic",
+      "año":  2019,
+      "editorial": "Pearson",
+      "imagen": "https://imgv2-2-f.scribdassets.com/img/word_document/578215473/original/37696ff0b3/1686927918?v=1",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 60,
+        "bolivianos": 420
+      }
+    },        
+    {
+      "nombre": "Química Ambiental",
+      "autor": "Colin Baird",
+      "año":  2016,
+      "editorial": "Cengage Learning",
+      "imagen": "https://3.bp.blogspot.com/-cx32kQ5liXk/XXJzxyNeLRI/AAAAAAAAL4I/QS-eknZDIxckl8sNelp8B_I6glybma14QCLcBGAs/s1600/Quimica%2Bambiental%2Bgeogpsperu%2Bjuansuyo.png",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 54,
+        "bolivianos": 370
+    }
+    },
+    {
+      "nombre": "Tratamiento de Aguas Residuales: Principios Básicos",
+      "autor": "Marcos von Sperling",
+      "año":  2014,
+      "editorial": "UFMG",
+      "imagen": "https://editorial.udenar.edu.co/wp-content/uploads/2012/09/PRONCIPIOS-DEL-TRATAMIENTO-DE-AGUAS-INTRODUCCION-VOL-1.png",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 58,
+        "bolivianos": 400
+    }
+    },
+    {
+      "nombre": "Contaminación Ambiental",
+      "autor": "Carmen Orozco, Antonio Pérez, M. Nieves González",
+      "año":  2018,
+      "editorial": "Paraninfo",
+      "imagen": "https://www.etp.com.py/img/tapa-mediana-14845.jpg",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 53,
+        "bolivianos": 370
+    }
+    },
+
+    {
+      "nombre": "Fundamentos de Ingeniería Ambiental",
+      "autor": "Mihelcic",
+      "año":  2014,
+      "editorial": "Cengage Learning",
+      "imagen": "https://m.media-amazon.com/images/I/711K+u95rIL._AC_UF1000,1000_QL80_.jpg",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 56,
+        "bolivianos": 390
+    }
+    },
+    {
+      "nombre": "Química Ambiental",
+      "autor": "Colin Bird/Michael Cann",
+      "año":  2019,
+      "editorial": "Reverté",
+      "imagen": "https://cdn.slidesharecdn.com/ss_thumbnails/qumicaambiental2a-220528235640-9e90202f-thumbnail.jpg?width=640&height=640&fit=bounds",
+      "carrera": "Ingeniería Ambiental",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 50,
+        "bolivianos": 350
+    }
+    },
+    
+    {
+      "nombre": "Métodos, Estándares y Diseño del Trabajo ",
+      "autor": " Benjamin W. Niebel",
+      "año":  2014 ,
+      "editorial": "Alfaomega ",
+      "imagen": " https://0.academia-photos.com/attachment_thumbnails/56586523/mini_magick20220705-11430-xved4f.png?1657027727",
+      "carrera": "Ingeniería  Industrial",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 62 ,
+        "bolivianos":  430
+      }
+    },
+
+{
+      "nombre": "Fundamentos de Ingeniería Industrial ",
+      "autor": " Benjamin W. Niebel",
+      "año":  2016 ,
+      "editorial": "Alfaomega ",
+      "imagen": "https://image.slidesharecdn.com/fundamentosdeingenieraindustrialdraft-cesarinimarcelo-171027172056/85/fundamentos-de-ingeniera-industrial-draft-cesarini-marcelo-1-320.jpg?cb=1668649435 ",
+      "carrera": "Ingeniería Industrial ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares":55  ,
+        "bolivianos":  380
+      }
+    },
+{
+      "nombre": "  Sistemas de Manufactura Flexible",
+      "autor": " Richard Crowson",
+      "año":   2018,
+      "editorial": " McGraw-Hill",
+      "imagen": " https://imgv2-1-f.scribdassets.com/img/document/258273970/original/532860d86e/1685092959?v=1 ",
+      "carrera": "Ingeniería  ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares":48,
+        "bolivianos": 330  
+      }
+    }, 
+{
+      "nombre": "  Investigación de Operaciones",
+      "autor": "Frederick S. Hillier ",
+      "año":  2017 ,
+      "editorial": "McGraw-Hill ",
+      "imagen": "https://www.bibvirtual.ucb.edu.bo/opac/Cover/Show?author=Hillier%2C+Frederick+S.%2C+1936-.&callnumber=&size=large&title=Investigaci%C3%B3n+de+operaciones+%2F&recordid=100024129&source=Solr&isbn=6071512921 ",
+      "carrera": " Ingeniería Industrial  ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 57 ,
+        "bolivianos": 400 
+      }
+    },
+{
+      "nombre": " Gestión de la Calidad  ",
+      "autor": "James R. Evans ",
+      "año": 2015  ,
+      "editorial": " Cengage Learning",
+      "imagen": "https://image.isu.pub/140225163029-1d6385f4d7b83e922552ab811ef54e5a/jpg/page_1.jpg ",
+      "carrera": "Ingeniería Industrial ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 52 ,
+        "bolivianos":  360
+      }
+    },
+{
+      "nombre": "  Producción y Cadena de Suministro",
+      "autor": " Richard B. Chase",
+      "año":  2012 ,
+      "editorial": " McGraw-Hill",
+      "imagen": "https://m.media-amazon.com/images/I/41sBKK+i0gL.jpg ",
+      "carrera": "Ingeniería Industrial",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares":  46,
+        "bolivianos": 320 
+      }
+    },
+{
+      "nombre": " Ingeniería Industrial: Métodos, Tiempos y Movimientos ",
+      "autor": " Benjamin W. Niebel",
+      "año":   2019,
+      "editorial": " Alfaomega",
+      "imagen": "https://virtual.urbe.edu/librotexto/621_7_NIE_2/portada.jpg ",
+      "carrera": "Ingeniería Industrial  ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 60 ,
+        "bolivianos":  420
+      }
+    },
+{
+      "nombre": "Ingeniería Económica ",
+      "autor": "Leland Blank ",
+      "año":   2016,
+      "editorial": " McGraw-Hill",
+      "imagen": " https://www.ecobook.com/static/img/portadas/_visd_0000JPG01UTZ.jpg",
+      "carrera": "Ingeniería Industrial  ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares":  54,
+        "bolivianos": 370  
+      }
+    },
+{
+      "nombre": "Logística ",
+      "autor": " Ronald H. Ballou ",
+      "año":  2013 ,
+      "editorial": " Pearson",
+      "imagen": "https://images-na.ssl-images-amazon.com/images/P/9702605407.01.LZZZZZZZ.jpg ",
+      "carrera": "Ingeniería Industrial ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 58 ,
+        "bolivianos": 400  
+      }
+    },
+{
+      "nombre": " Herramientas, Técnicas y Estrategias ",
+      "autor": " William M. Feld",
+      "año": 2018  ,
+      "editorial": "McGraw-Hill ",
+      "imagen": " https://images.routledge.com/common/jackets/crclarge/978157444/9781574442977.jpg",
+      "carrera": "Ingeniería Industrial ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares":  53,
+        "bolivianos":  370
+      }
+    },
+{
+      "nombre": " Administración de la Producción y Operaciones",
+      "autor": " Richard Chase",
+      "año": 2013  ,
+      "editorial": "McGraw-Hill ",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2013/04/administracion-de-operaciones-chase-jacobs-aquilano-12ma-edicion.jpg ",
+      "carrera": "Ingeniería Industrial ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 51 ,
+        "bolivianos":  360
+      }
+    },
+{
+      "nombre": "Ergonomía Industrial  ",
+      "autor": " Konz",
+      "año": 2017  ,
+      "editorial": "Pearson ",
+      "imagen": "https://m.media-amazon.com/images/I/41OSzW4CjvL._AC_UF1000,1000_QL80_.jpg ",
+      "carrera": "Ingeniería Industrial ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 59 ,
+        "bolivianos":  410
+      }
+    },
+
+{
+      "nombre": "Ingeniería Industrial: Métodos, Estándares y Diseño del Trabajo ",
+      "autor": "Benjamin W. Niebel ",
+      "año": 2014  ,
+      "editorial": " Alfaomega",
+      "imagen": " https://m.media-amazon.com/images/I/61-Fj1MCODL._AC_UF1000,1000_QL80_.jpg",
+      "carrera": "Ingeniería Industrial ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares":  56,
+        "bolivianos":  390
+      }
+    },
+{
+      "nombre": " Planeación y Control de la Producción",
+      "autor": "Daniel Sipper ",
+      "año": 2018  ,
+      "editorial": " McGraw-Hill",
+      "imagen": "https://m.media-amazon.com/images/I/91HWLxb3BML._AC_UF350,350_QL50_.jpg ",
+      "carrera": "Ingeniería Industrial ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 47 ,
+        "bolivianos": 325  
+      }
+    },
+{
+      "nombre": "Ingeniería de la Calidad ",
+      "autor": "Douglas C. Montgomery ",
+      "año": 2015  ,
+      "editorial": "Cengage Learning ",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2018/11/control-estadistico-de-la-calidad-douglas-c-montgomery-3ra-edicion.jpg ",
+      "carrera": "Ingeniería Industrial  ",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares":  48,
+        "bolivianos":  330
+      }
+    },
+    {
+      "nombre": "Mecatrónica: Sistemas de Control Electromecánicos",
+      "autor": "W. Bolton",
+      "año": 2017,
+      "editorial": "Pearson",
+      "imagen": "https://cdn-v1.udocz-assets.com/uploads/book/cover/48674/mecatronica_bolton_5ta_ed.jpg",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 62,
+        "bolivianos": 430
+      }
+    },
+    {
+      "nombre": "Fundamentos de Mecatrónica",
+      "autor": "Jorge Angeles",
+      "año": 2016,
+      "editorial": "Pearson",
+      "imagen": "https://image.isu.pub/160815185249-86c835718f602bf8ef38607bff69ca3c/jpg/page_1.jpg",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 55,
+        "bolivianos": 380
+      }
+    },
+    {
+      "nombre": "Robótica: Manipuladores y Robots Móviles",
+      "autor": "Aníbal Ollero Baturone",
+      "año": 2018,
+      "editorial": "Alfaomega",
+      "imagen": "https://www.etp.com.py/img/tapa-mediana-25374.jpg",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 48,
+        "bolivianos": 330
+      }
+    },
+    {
+      "nombre": "Electrónica de Potencia: Circuitos, Dispositivos y Aplicaciones",
+      "autor": "Muhammad H. Rashid",
+      "año": 2017,
+      "editorial": "Pearson",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2013/03/electronica-de-potencia-muhammad-h-rashid-3ra-edicion.jpg",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 57,
+        "bolivianos": 400
+      }
+    },
+    {
+      "nombre": "Sistemas Embebidos: Programación, Diseño y Aplicaciones",
+      "autor": "Muhammad Ali Mazidi",
+      "año": 2015,
+      "editorial": "Alfaomega",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2013/10/pic-microcontroller-by-mazidi-r-mckinlay.jpg",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 52,
+        "bolivianos": 360
+      }
+    },
+    {
+      "nombre": "Mecatrónica: Sistemas de Control Electromecánicos",
+      "autor": "W. Bolton",
+      "año": 2019,
+      "editorial": "Alfaomega ",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2019/08/mecatronica-w-bolton-3ra-edicion-1-250x325.jpg",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 60,
+        "bolivianos": 420
+      }
+    },
+    {
+      "nombre": "Fundamentos de Robótica",
+      "autor": "Luis Felipe Peñin",
+      "año": 2013,
+      "editorial": "Paraninfo",
+      "imagen": "",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 53,
+        "bolivianos": 370
+      }
+    },
+    {
+      "nombre": "Mecatrónica: Conceptos y Aplicaciones",
+      "autor": "Sergio Celestino",
+      "año": 2016,
+      "editorial": "Alfaomega",
+      "imagen": "",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 54,
+        "bolivianos": 370
+      }
+    },
+    {
+      "nombre": "Control Automático de Procesos Industriales",
+      "autor": "Carlos A. Smith",
+      "año": 2014,
+      "editorial": "Limusa",
+      "imagen": "",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 58,
+        "bolivianos": 400
+      }
+    },
+    {
+      "nombre": "Instrumentación Electrónica Moderna y Técnicas de Medición",
+      "autor": "Albert D. Helfrick",
+      "año": 2018,
+      "editorial": "Pearson",
+      "imagen": "",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 53,
+        "bolivianos": 370
+      }
+    },
+    {
+      "nombre": "Microcontroladores PIC: Programación en C",
+      "autor": "Julio Sánchez García",
+      "año": 2015,
+      "editorial": "Alfaomega",
+      "imagen": "",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 50,
+        "bolivianos": 350
+      }
+    },
+    {
+      "nombre": "Automatización Industrial: Controladores Lógicos Programables",
+      "autor": "José Ramón Vilanova",
+      "año": 2019,
+      "editorial": "Marcombo",
+      "imagen": "",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 49,
+        "bolivianos": 340
+      }
+    },
+    {
+      "nombre": "Electrónica Analógica: Circuitos y Sistemas",
+      "autor": "Jorge de Castro",
+      "año": 2013,
+      "editorial": "Paraninfo",
+      "imagen": "",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 51,
+        "bolivianos": 360
+      }
+    },
+    {
+      "nombre": "Sistemas de Control Automático",
+      "autor": "Kuo Benjamin C.",
+      "año": 2017,
+      "editorial": "Pearson",
+      "imagen": "",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 59,
+        "bolivianos": 410
+      }
+    },
+    {
+      "nombre": "Electrónica Digital: Circuitos Integrados y Microcontroladores",
+      "autor": "Roger L. Tokheim",
+      "año": 2014,
+      "editorial": "McGraw-Hill",
+      "imagen": "",
+      "carrera": "Ingeniería Mecatrónica",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 56,
+        "bolivianos": 390
+      }
+    },
+    {
+      "nombre": "Fundamentos de Sistemas de Bases de Datos",
+      "autor": "Ramez Elmasri",
+      "año": 2017,
+      "editorial": "Pearson",
+      "imagen": "https://0.academia-photos.com/attachment_thumbnails/53337969/mini_magick20220701-8955-ji5laf.png?1656663825",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 62,
+        "bolivianos": 430
+      }
+    },
+    {
+      "nombre": "Estructura de Datos en Java: Lenguaje y Aplicaciones",
+      "autor": "Luis Joyanes Aguilar",
+      "año": 2016,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://www.ingebook.com/ib/pimg/Ingebook/00100_0000004061_4089.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 55,
+        "bolivianos": 380
+      }
+    },
+    {
+      "nombre": "Análisis y Diseño Orientado a Objetos",
+      "autor": "Grady Booch",
+      "año": 2018,
+      "editorial": "Addison-Wesley",
+      "imagen": "https://www.etp.com.py/img/tapa-mediana-94562.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 48,
+        "bolivianos": 330
+      }
+    },
+    {
+      "nombre": "Redes de Computadoras: Un Enfoque Descendente",
+      "autor": "James F. Kurose",
+      "año": 2017,
+      "editorial": "Pearson",
+      "imagen": "https://editorial.tirant.com/high/9788490355282.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 57,
+        "bolivianos": 400
+      }
+    },
+    {
+      "nombre": "Sistemas Operativos: Conceptos y Diseño",
+      "autor": "Abraham Silberschatz",
+      "año": 2015,
+      "editorial": "Pearson",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2013/02/sistemas-operativos-abraham-silberschatz-peter-baer-galvin-5ta-edicion.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 52,
+        "bolivianos": 360
+      }
+    },
+    {
+      "nombre": "Fundamentos de Programación: Algoritmos, Estructuras de Datos y Objetos",
+      "autor": "Luis Joyanes Aguilar",
+      "año": 2019,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://www.ingebook.com/ib/pimg/Ingebook/00100_0000005043_4223.JPG",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 60,
+        "bolivianos": 420
+      }
+    },
+    {
+      "nombre": "Ingeniería del Software: Un Enfoque Práctico",
+      "autor": "Roger S. Pressman",
+      "año": 2013,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2018/03/ingenieria-del-software-roger-s-pressman-6ta-edicon.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 53,
+        "bolivianos": 370
+      }
+    },
+    {
+      "nombre": "Inteligencia Artificial: Un Enfoque Moderno",
+      "autor": "Stuart Russell",
+      "año": 2016,
+      "editorial": "Pearson",
+      "imagen": "https://www.libun.edu.pe/carrito/portadas/00034372.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 54,
+        "bolivianos": 370
+      }
+    },
+    {
+      "nombre": "Bases de Datos: Desde Chen hasta Codd con ORACLE",
+      "autor": "Ignacio Rodríguez Riveros",
+      "año": 2014,
+      "editorial": "Alfaomega",
+      "imagen": "https://m.media-amazon.com/images/I/81Z9lYCJDbL._AC_UF1000,1000_QL80_.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 58,
+        "bolivianos": 400
+      }
+    },
+    {
+      "nombre": "Interacción Persona-Computadora",
+      "autor": "Jenny Preece",
+      "año": 2018,
+      "editorial": "Pearson",
+      "imagen": "https://m.media-amazon.com/images/I/41iFjnPxm8S._AC_UF1000,1000_QL80_.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español, Ingles"],
+      "precio": {
+        "dolares": 53,
+        "bolivianos": 370
+      }
+    },
+    {
+      "nombre": "Sistemas Digitales: Principios y Aplicaciones",
+      "autor": "Ronald J. Tocci",
+      "año": 2015,
+      "editorial": "Pearson",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2014/02/sistemas-digitales-principios-y-aplicaciones-ronald-tocci-10ma-edicion.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 50,
+        "bolivianos": 350
+      }
+    },
+    {
+      "nombre": "Arquitectura de Computadoras: Un Enfoque Cuantitativo",
+      "autor": "John L. Hennessy",
+      "año": 2019,
+      "editorial": "Morgan Kaufmann",
+      "imagen": "data:image/jpeg;base64,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",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 49,
+        "bolivianos": 340
+      }
+    },
+    {
+      "nombre": "Programación en C++: Algoritmos, Estructuras de Datos y Objetos",
+      "autor": "Luis Joyanes Aguilar",
+      "año": 2013,
+      "editorial": "McGraw-Hill",
+      "imagen": "https://cdn.agapea.com/McGraw-Hill-Interamericana-de-Espana-S-L-/Programacion-en-C-Algoritmos-estructuras-de-datos-y-obsjetos-i7n313333.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 51,
+        "bolivianos": 360
+      }
+    },
+    {
+      "nombre": "Cálculo: Trascendentes Tempranas",
+      "autor": "James Stewart",
+      "año": 2017,
+      "editorial": "Cengage Learning",
+      "imagen": "https://latinoamerica.cengage.com/wp-content/uploads/portadas/full/9786075265483.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 59,
+        "bolivianos": 410
+      }
+    },
+    {
+      "nombre": "Estadística para Ingenieros",
+      "autor": "Douglas C. Montgomery",
+      "año": 2015,
+      "editorial": "Limusa",
+      "imagen": "https://www.elsolucionario.org/wp-content/archivos/2018/03/estadistica-para-ingenieros-douglas-c-montgomery-4ta-edicion.jpg",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 56,
+        "bolivianos": 390
+      }
+    },
+    {
+      "nombre": "Probabilidad y Estadística para Ingenieros",
+      "autor": "Walpole",
+      "año": 2017,
+      "editorial": "Prentice Hall",
+      "imagen": "https://imgv2-2-f.scribdassets.com/img/document/497647440/original/f13b70e268/1686159743?v=1",
+      "carrera": "Ingeniería en Sistemas",
+      "idioma": ["Español"],
+      "precio": {
+        "dolares": 62,
+        "bolivianos": 430
+      }
+    }
+
+]
+  
